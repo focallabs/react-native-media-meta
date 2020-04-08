@@ -1,0 +1,54 @@
+{
+  "_args": [
+    [
+      "react-native-media-meta@0.0.10",
+      "/Users/duongtung/Remote-Working/FocalLab/WTV_UGC/wtv-ugc-app-new"
+    ]
+  ],
+  "_from": "react-native-media-meta@0.0.10",
+  "_id": "react-native-media-meta@0.0.10",
+  "_inBundle": false,
+  "_integrity": "sha512-2c90VMGrmK4ANpjlabpYZlAaJyrPuACX9WpkmPq4ZOSShQW0Yvf4EX/zIXbw5yILI34wbEOVT3bAz5Asrse/lw==",
+  "_location": "/react-native-media-meta",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "version",
+    "registry": true,
+    "raw": "react-native-media-meta@0.0.10",
+    "name": "react-native-media-meta",
+    "escapedName": "react-native-media-meta",
+    "rawSpec": "0.0.10",
+    "saveSpec": null,
+    "fetchSpec": "0.0.10"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/react-native-media-meta/-/react-native-media-meta-0.0.10.tgz",
+  "_spec": "0.0.10",
+  "_where": "/Users/duongtung/Remote-Working/FocalLab/WTV_UGC/wtv-ugc-app-new",
+  "author": {
+    "name": "Jhen",
+    "email": "developer@jhen.me"
+  },
+  "bugs": {
+    "url": "https://github.com/mybigday/react-native-media-meta/issues"
+  },
+  "description": "Get media file metadata in your React Native app",
+  "homepage": "https://github.com/mybigday/react-native-media-meta#readme",
+  "keywords": [
+    "react",
+    "native",
+    "media",
+    "metadata"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "name": "react-native-media-meta",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mybigday/react-native-media-meta.git"
+  },
+  "scripts": {},
+  "version": "0.0.10"
+}
